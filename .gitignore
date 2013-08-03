@@ -17,7 +17,9 @@ develop-eggs
 .installed.cfg
 lib
 lib64
-
+venv
+*~
+.DS_Store
 # Installer logs
 pip-log.txt
 
